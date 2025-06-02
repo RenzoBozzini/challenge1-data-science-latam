@@ -6,8 +6,7 @@ El estudio se basa en indicadores clave de rendimiento de cuatro tiendas virtual
 
 - `analisis_tiendas.ipynb`: Notebook de Google Colab con el análisis completo, visualizaciones y recomendaciones.
 - `README.md`: Este archivo con la explicación general del proyecto.
-- `/datos/`: Carpeta opcional para incluir archivos CSV o Excel utilizados (si aplica).
-- `/graficos/`: Exportación opcional de gráficos generados en el análisis.
+- `/base de datos/`: Carpeta con archivos CSV utilizados.
 
 ## 📌 Objetivo del Proyecto
 
@@ -18,7 +17,7 @@ El objetivo fue analizar y comparar el rendimiento de las 4 tiendas en base a lo
 - Costo promedio de envío
 - Popularidad de productos y categorías
 
-Con esta información, se buscó identificar **cuál de las tiendas presenta peores condiciones comerciales y debe ser descartada**, así como destacar la tienda más equilibrada para iniciar operaciones.
+Con esta información, se buscó identificar **cuál de las tiendas presenta peores condiciones comerciales**.
 
 ## 🧾 Conclusión del Análisis
 
